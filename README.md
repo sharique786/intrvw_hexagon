@@ -9,8 +9,11 @@ Section 2:
 Section 3:
 
 a) Sonar scan snapshot:
+	https://github.com/sharique786/intrvw_hexagon/tree/master/images_snapshot/sonarlint.png
 b) Final output snapshot:
+	https://github.com/sharique786/intrvw_hexagon/tree/master/images_snapshot/Output1.png
 c) Junit Coverage snapshot:
+	https://github.com/sharique786/intrvw_hexagon/tree/master/images_snapshot/JUnit1.png
 
 Section 4:
 
